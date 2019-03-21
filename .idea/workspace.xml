@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3ae5c9d-280d-4ba0-9f3b-16b7094a6255" name="Default Changelist" comment="" />
+    <list default="true" id="f3ae5c9d-280d-4ba0-9f3b-16b7094a6255" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/james.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/james.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/plugin_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/misc/plugin_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/builtin_entity_parser/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/custom_entity_parser/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/custom_entity_parser/parser/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/custom_entity_parser/parser/parser_1/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/custom_entity_parser/parser/parser_1/parser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/custom_entity_parser/parser/parser_2/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/custom_entity_parser/parser/parser_2/parser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/deterministic_intent_parser/intent_parser.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/deterministic_intent_parser/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/nlu_engine.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/probabilistic_intent_parser/intent_classifier/featurizer/featurizer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/probabilistic_intent_parser/intent_classifier/featurizer/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/probabilistic_intent_parser/intent_classifier/featurizer/tfidf_vectorizer/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/probabilistic_intent_parser/intent_classifier/featurizer/tfidf_vectorizer/vectorizer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/probabilistic_intent_parser/intent_classifier/intent_classifier.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/probabilistic_intent_parser/intent_classifier/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/probabilistic_intent_parser/intent_parser.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/probabilistic_intent_parser/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/probabilistic_intent_parser/slot_filler_0/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/probabilistic_intent_parser/slot_filler_0/modelc_qkglf4.crfsuite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/probabilistic_intent_parser/slot_filler_0/slot_filler.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/probabilistic_intent_parser/slot_filler_1/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/probabilistic_intent_parser/slot_filler_1/modelqy7j8rpb.crfsuite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/probabilistic_intent_parser/slot_filler_1/slot_filler.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/resources/en/gazetteers/top_10000_words_stemmed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/resources/en/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/resources/en/noise.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/resources/en/stemming/stems.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/resources/en/stop_words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/nlu_trained_engine/resources/en/word_clusters/brown_clusters.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/snips.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/snips.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            <state relative-caret-position="592">
+              <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -29,7 +67,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/lib/python3.6/codecs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
+            <state relative-caret-position="9280">
               <caret line="320" selection-start-line="320" selection-end-line="320" />
             </state>
           </provider>
@@ -38,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/training/snips.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="551">
+              <caret line="19" column="116" selection-start-line="19" selection-start-column="116" selection-end-line="19" selection-end-column="116" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -50,7 +88,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/training/datasets/weather.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3570">
+            <state relative-caret-position="6090">
               <caret line="210" column="26" selection-start-line="210" selection-start-column="22" selection-end-line="210" selection-end-column="26" />
             </state>
           </provider>
@@ -59,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/abstract/abstract_plugin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="261">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -68,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/misc/plugin_manager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="870">
+              <caret line="30" column="56" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -95,17 +133,28 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>kws</find>
+      <find>plugins</find>
+      <find>SAMPLE_DATASET_PATH</find>
+      <find>&quot;nlu_trained_engine&quot;</find>
     </findStrings>
+    <replaceStrings>
+      <replace>_plugins</replace>
+      <replace>DATASET_PATH</replace>
+      <replace>TRAINED_ENGINE_PATH</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/abstract/AbstractPlugin.py" />
         <option value="$PROJECT_DIR$/training/datasets/package.json" />
-        <option value="$PROJECT_DIR$/training/snips.py" />
-        <option value="$PROJECT_DIR$/misc/plugin_manager.py" />
         <option value="$PROJECT_DIR$/abstract/abstract_plugin.py" />
         <option value="$PROJECT_DIR$/plugins/test.py" />
+        <option value="$PROJECT_DIR$/misc/plugin_manager.py" />
+        <option value="$PROJECT_DIR$/training/snips.py" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
@@ -116,6 +165,7 @@
     <option name="width" value="927" />
     <option name="height" value="1053" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -125,28 +175,32 @@
         <subPane>
           <expand>
             <path>
-              <item name="james" type="b2602c69:ProjectViewProjectNode" />
-              <item name="james" type="462c0819:PsiDirectoryNode" />
+              <item name="James-Open-Source-Alexa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="James-Open-Source-Alexa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="james" type="b2602c69:ProjectViewProjectNode" />
-              <item name="james" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="james" type="b2602c69:ProjectViewProjectNode" />
-              <item name="james" type="462c0819:PsiDirectoryNode" />
-              <item name="misc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="james" type="b2602c69:ProjectViewProjectNode" />
-              <item name="james" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="james" type="b2602c69:ProjectViewProjectNode" />
-              <item name="james" type="462c0819:PsiDirectoryNode" />
+              <item name="James-Open-Source-Alexa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="James-Open-Source-Alexa" type="462c0819:PsiDirectoryNode" />
               <item name="training" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="James-Open-Source-Alexa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="James-Open-Source-Alexa" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="datasets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="James-Open-Source-Alexa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="James-Open-Source-Alexa" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="nlu_trained_engine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="James-Open-Source-Alexa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="James-Open-Source-Alexa" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="nlu_trained_engine" type="462c0819:PsiDirectoryNode" />
+              <item name="probabilistic_intent_parser" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,7 +215,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -252,26 +306,35 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="32564000" />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
+    <frame x="134" y="43" width="2602" height="1781" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14111787" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14073496" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297062" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3101197" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934713" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30963457" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933553" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49960908" weight="0.32956812" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49960908" weight="0.32956812" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50078183" side_tool="true" weight="0.32956812" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49921814" weight="0.32956812" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49921814" weight="0.32956812" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -286,9 +349,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/misc/plugin_manager.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="10" />
+          <url>file://$PROJECT_DIR$/training/snips.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -297,20 +360,8 @@
     <entry file="file://$PROJECT_DIR$/misc/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1460984307/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="169" column="4" selection-start-line="169" selection-start-column="4" selection-end-line="169" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/snips_nlu/common/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1460984307/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/snips_nlu/common/utils.py" />
     <entry file="file:///usr/lib/python3.6/re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="455">
@@ -349,27 +400,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/abstract/abstract_plugin.py">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pocketsphinx/__init__.py" />
+    <entry file="file:///usr/lib/python3.6/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="9280">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/training/snips.py">
+    <entry file="file://$PROJECT_DIR$/training/datasets/weather.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="6090">
+          <caret line="210" column="26" selection-start-line="210" selection-start-column="22" selection-end-line="210" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/data/Personal/James-Open-Source-Alexa/misc/plugin_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="17" column="69" lean-forward="true" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/misc/plugin_manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="870">
+          <caret line="30" column="56" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -379,31 +435,27 @@
     <entry file="file://$PROJECT_DIR$/plugins/test.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/training/datasets/weather.json">
+    <entry file="file://$PROJECT_DIR$/abstract/abstract_plugin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3570">
-          <caret line="210" column="26" selection-start-line="210" selection-start-column="22" selection-end-line="210" selection-end-column="26" />
+        <state relative-caret-position="261">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pocketsphinx/__init__.py">
+    <entry file="file://$PROJECT_DIR$/training/snips.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1853">
-          <caret line="192" column="27" selection-start-line="192" selection-start-column="27" selection-end-line="192" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.6/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        <state relative-caret-position="551">
+          <caret line="19" column="116" selection-start-line="19" selection-start-column="116" selection-end-line="19" selection-end-column="116" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="592">
+          <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
