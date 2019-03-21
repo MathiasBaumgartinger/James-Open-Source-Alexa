@@ -1,0 +1,21 @@
+setting up:
+
+libs:
+- sphinxbase
+- pocketsphinx
+	-> train them with a few proper samples
+- snips-nlu
+
+
+training of pocketsphinx voice recognition (highly recommended because the default library wont work as well!)
+	- https://www.youtube.com/watch?v=IAHH6-t9jK0
+
+configuration/training of snips nlu_engine:
+	- write a dataset (https://snips-nlu.readthedocs.io/en/latest/dataset.html#dataset)
+	- fit it into the nlu_engine variable in the snips script7
+
+letting a new plugin handle the snips intent:
+	once you configured the dataset, so the intent can be read properly qfor every phrase in your LiveSpeech() from pocketsphinx,
+	the created json file will be given to the pluginmanager, who loads all the plugins availabe and checks, which has the highest
+	handling score for the specific json file. 
+
